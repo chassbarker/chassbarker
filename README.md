@@ -25,31 +25,62 @@ I build cloud applications, AI-powered solutions, and modern web applications wh
 
 ## 🏅 AWS Academy Graduate
 
-<a href="https://www.credly.com/earner/earned/badge/7516a435-8d4d-46a3-9fe4-501c6513bec5">
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<strong>Machine Learning for NLP</strong><br>
+<a href="https://www.credly.com/badges/0f1e95a8-66cf-4341-9665-7b36867eaa3e" title="AWS Academy Graduate - Machine Learning for Natural Language Processing">
+<img src="https://images.credly.com/size/128x128/images/0f1e95a8-66cf-4341-9665-7b36867eaa3e/blob" width="100"/>
+</a>
+</td>
+
+<td align="center">
+<strong>Cloud Architecting</strong><br>
+<a href="https://www.credly.com/earner/earned/badge/7516a435-8d4d-46a3-9fe4-501c6513bec5" title="AWS Academy Cloud Architecting">
 <img src="https://images.credly.com/size/128x128/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob" width="100"/>
 </a>
+</td>
 
-<a href="https://www.credly.com/earner/earned/badge/930fcbb1-28c6-4319-929d-90fd0437c132">
+<td align="center">
+<strong>Cloud Operations</strong><br>
+<a href="https://www.credly.com/earner/earned/badge/930fcbb1-28c6-4319-929d-90fd0437c132" title="AWS Academy Cloud Operations">
 <img src="https://images.credly.com/size/128x128/images/07e7ba52-aea4-431f-ba2d-a4113efd1d5a/blob" width="100"/>
 </a>
+</td>
+</tr>
 
-<a href="https://www.credly.com/earner/earned/badge/6fba5143-dda2-4393-bde7-5f28a73f16b3">
+<tr>
+<td align="center">
+<strong>Cloud Security Foundations</strong><br>
+<a href="https://www.credly.com/earner/earned/badge/6fba5143-dda2-4393-bde7-5f28a73f16b3" title="AWS Academy Cloud Security Foundations">
 <img src="https://images.credly.com/size/128x128/images/7f7ea828-a10d-44f8-8baa-58a9c1af7671/blob" width="100"/>
 </a>
+</td>
 
-<a href="https://www.credly.com/earner/earned/badge/8dbcef68-1083-4edf-85b4-f8ad560babeb">
-<img src="https://images.credly.com/size/160x160/images/42676763-0f40-42e2-8ddb-a0005a572759/blob" width="100"/>
+<td align="center">
+<strong>Engineering Operations Tech</strong><br>
+<a href="https://www.credly.com/earner/earned/badge/8dbcef68-1083-4edf-85b4-f8ad560babeb" title="AWS Academy Engineering Operations Technicians">
+<img src="https://images.credly.com/size/128x128/images/42676763-0f40-42e2-8ddb-a0005a572759/blob" width="100"/>
 </a>
+</td>
 
-<a href="https://www.credly.com/earner/earned/badge/638248ab-ae91-4845-b57e-43b7984cad61">
+<td align="center">
+<strong>Machine Learning Foundations</strong><br>
+<a href="https://www.credly.com/earner/earned/badge/638248ab-ae91-4845-b57e-43b7984cad61" title="AWS Academy Machine Learning Foundations">
 <img src="https://images.credly.com/size/128x128/images/727c2754-d727-4e27-a1aa-3de2425ce239/blob" width="100"/>
 </a>
+</td>
+</tr>
+</table>
 
-<br><br>
+<br>
 
-**Cloud Architecting • Cloud Operations • Cloud Security Foundations • Engineering Operations Technicians • Machine Learning Foundations**
+**Machine Learning for NLP • Cloud Architecting • Cloud Operations • Cloud Security Foundations • Engineering Operations Technicians • Machine Learning Foundations**
 
 </div>
+
 
 ---
 
