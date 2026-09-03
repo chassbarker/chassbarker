@@ -32,9 +32,7 @@ I build cloud applications, AI-powered solutions, and modern web applications wh
 <td align="center">
 <strong>Machine Learning for NLP</strong><br>
 <a href="https://www.credly.com/badges/0f1e95a8-66cf-4341-9665-7b36867eaa3e" title="AWS Academy Graduate - Machine Learning for Natural Language Processing">
-<img src="https://images.credly.com/size/128x128/images/0f1e95a8-66cf-4341-9665-7b36867eaa3e/blob" width="100"/>
-</a>
-</td>
+<img src="https://images.credly.com/size/680x680/images/683b2e3c-0d28-42a2-ab84-7203a209f9d0/blob width="100"/> 
 
 <td align="center">
 <strong>Cloud Architecting</strong><br>
