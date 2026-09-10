@@ -127,25 +127,6 @@ I enjoy solving technical problems, learning new technologies, and building secu
 ---
 
 # 🚀 Featured Projects
-
-### 🤖 AI Appointment Scheduler
-
-Secure appointment scheduling application built with:
-
-- HTML
-- CSS
-- JavaScript
-- Supabase
-- PostgreSQL
-
-**Highlights**
-
-- User Authentication
-- Row Level Security (RLS)
-- CRUD Operations
-- Responsive Design
-- AI Scheduling (In Development)
-
 ---
 ### 🤖 AI Appointment Scheduler V2.0
 
@@ -166,6 +147,7 @@ Secure cloud-based appointment scheduling application built with:
 **Highlights**
 
 * Secure user authentication
+* Responsive Design
 * CRUD appointment management
 * Conversational appointment booking, rescheduling, and cancellation
 * AWS serverless scheduling layer
@@ -215,66 +197,83 @@ Professional portfolio showcasing cloud, AI, and web development projects.
 
 # 💻 Technical Skills
 
+# 💻 Technical Skills
+
 ### ☁️ Cloud
 
-- AWS
-- Amazon SageMaker
-- Amazon Lex
-- Amazon S3
-- IAM
-- Cloud Architecture
-- Cloud Operations
-- Cloud Security
+* AWS
+* AWS Lambda
+* Amazon API Gateway
+* Amazon CloudWatch
+* Amazon SageMaker
+* Amazon Lex
+* Amazon S3
+* IAM
+* Cloud Architecture
+* Cloud Operations
+* Cloud Security
+
+### 📊 Data Analytics & Big Data
+
+* Amazon Athena
+* AWS Glue
+* Amazon Redshift
+* Amazon S3
+* ETL / ELT
+* Data Analytics on AWS
+* Cloud Data Architecture
+* Data Security for Analytics
 
 ### 💻 Programming Languages
 
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-- Python
-- SQL
+* HTML5
+* CSS3
+* JavaScript
+* PHP
+* Python
+* SQL
 
 ### 🗄️ Databases
 
-- PostgreSQL
-- Supabase
+* PostgreSQL
+* Supabase
 
 ### 🌐 Web Technologies
 
-- WordPress Development
-- Responsive Web Design
-- Authentication & Authorization
-- Row Level Security (RLS)
-- GitHub Pages
-- Domain Management
-- DNS Configuration
-- Web Hosting
+* WordPress Development
+* Responsive Web Design
+* Authentication & Authorization
+* Row Level Security (RLS)
+* GitHub Pages
+* Domain Management
+* DNS Configuration
+* Web Hosting
 
-### 🛠️ Development Tools
+### 🛠️ Development & DevOps Tools
 
-- Git
-- GitHub
-- Visual Studio Code
-- WordPress
-- Microsoft Office
+* Git
+* GitHub
+* GitHub Actions
+* Terraform
+* Infrastructure as Code
+* CI/CD
+* Visual Studio Code
+* WordPress
+* Microsoft Office
 
 ### 🤖 AI Developer Tools
 
-- ChatGPT
-- GitHub Copilot
-- OpenAI Codex
+* ChatGPT
+* GitHub Copilot
+* OpenAI Codex
 
 ### 📚 Currently Learning
 
-- Docker
-- Kubernetes
-- Terraform
-- GitHub Actions
-- CI/CD
-- Infrastructure as Code
+* Docker
+* Kubernetes
+* Advanced DevOps workflows
+* Cloud automation
 
----
 
 # 💼 Professional Experience
 
