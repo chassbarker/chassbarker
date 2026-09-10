@@ -147,6 +147,33 @@ Secure appointment scheduling application built with:
 - AI Scheduling (In Development)
 
 ---
+### 🤖 AI Appointment Scheduler V2.0
+
+Secure cloud-based appointment scheduling application built with:
+
+* HTML
+* CSS
+* JavaScript
+* AWS Lambda
+* Amazon API Gateway
+* Terraform
+* IAM
+* CloudWatch
+* Supabase
+* PostgreSQL
+* GitHub Actions
+
+**Highlights**
+
+* Secure user authentication
+* CRUD appointment management
+* Conversational appointment booking, rescheduling, and cancellation
+* AWS serverless scheduling layer
+* Infrastructure as Code with Terraform
+* PostgreSQL Row Level Security
+* Automated testing and GitHub Actions CI
+* Live GitHub Pages deployment
+* Published `v2.0.0` release
 
 ### ☁️ AWS Machine Learning Projects
 
@@ -313,7 +340,7 @@ Awarded August 2025
 https://chassidybarker.com
 
 💼 **LinkedIn**  
-https://www.linkedin.com/in/chassidy-barker-02478535a
+https://www.linkedin.com/in/chassidybarker
 
 🏅 **Credly**  
 https://www.credly.com/users/chassidy-barker
