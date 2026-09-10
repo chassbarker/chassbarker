@@ -185,10 +185,11 @@ Projects covering:
 
 ### 💬 Amazon Lex Chatbot
 
-Conversational AI using Amazon Lex.
+Conversational AI chatbot built with Amazon Lex.
+
+🎥 **Demo:** [Amazon Lex Appointment Chatbot | Live Demonstration](https://www.youtube.com/watch?v=0P_Qbqcrrw4&list=PLRhLbZ2vyDCI)
 
 ---
-
 ### 🌐 Portfolio Website
 
 Professional portfolio showcasing cloud, AI, and web development projects.
