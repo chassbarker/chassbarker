@@ -198,8 +198,6 @@ Professional portfolio showcasing cloud, AI, and web development projects.
 
 # 💻 Technical Skills
 
-# 💻 Technical Skills
-
 ### ☁️ Cloud
 
 * AWS
