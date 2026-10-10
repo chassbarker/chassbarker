@@ -75,8 +75,10 @@ Completed an 11-month internship using WordPress, Elementor, PHP, HTML, CSS, and
 
 **Northwest Vista College**
 - Bachelor of Applied Technology, Cloud Computing | Expected December 2026 | GPA: 3.7
-- Associate of Applied Science, Digital Media | August 2025
+- Associate of Applied Science, Digital Media | August 2025 | **Cum Laude**
 - Web Designer and Digital Media certificates; occupational skills awards in publishing, social media, and web/digital design.
+
+**College involvement:** Member, NVC AI and Cloud Club | Northwest Vista College
 
 ## Coursework and Training
 
