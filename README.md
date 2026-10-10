@@ -66,19 +66,45 @@ AWS serverless contact application that validates submissions, classifies inquir
 
 **Continuing to learn:** Docker, Kubernetes, cloud automation, and DevOps workflows.
 
-## Experience and Education
+## Professional Experience
 
 **Web Development Intern | Public Alliance**  
-Completed an 11-month internship using WordPress, Elementor, PHP, HTML, CSS, and JavaScript. Developed TRC4 features approved for production and supported website maintenance and content updates.
+Completed an 11-month internship, including the summer cooperative education experience, using WordPress, Elementor, ACF, PHP, HTML, CSS, and JavaScript.
+
+- Created a TRC4 banner that the team used and developed responsive features approved for production.
+- Supported Sitterle Homes website maintenance and Milberger’s content and SEO updates.
 
 **Remote work:** Over four years as a Customer Order Specialist with QVC.
 
-**Northwest Vista College**
-- Bachelor of Applied Technology, Cloud Computing | Expected December 2026 | GPA: 3.7
-- Associate of Applied Science, Digital Media | August 2025 | **Cum Laude**
-- Web Designer and Digital Media certificates; occupational skills awards in publishing, social media, and web/digital design.
+## Education and Credentials
 
-**College involvement:** Member, NVC AI and Cloud Club | Northwest Vista College
+**Northwest Vista College | San Antonio, TX**
+
+- **Bachelor of Applied Technology, Cloud Computing** | Expected December 2026 | GPA: 3.7
+- **Associate of Applied Science, Digital Media** | August 15, 2025 | Cum Laude
+- **Level 1 Certificate, Digital Media** | August 15, 2025
+
+**Occupational Skills Awards**
+
+- Publishing for Digital Media | August 15, 2025
+- Social Media Content Creation | August 15, 2025
+- Web, Digital Design & Development | August 15, 2025
+- Web, Digital Design & Development II | August 15, 2025
+- Web Designer | August 8, 2024
+
+## Honors and Recognition
+
+- **Cum Laude** | AAS in Digital Media, Northwest Vista College | 2025
+- **Phi Theta Kappa Honor Society** | Beta Lambda Upsilon Chapter | Inducted August 2026
+- **Creative Problem-Solving Skills Badge** | Northwest Vista College | August 8, 2025 | 10 participation hours recorded
+
+## College Involvement
+
+**Member, NVC AI and Cloud Club | Northwest Vista College | June 2026–Present**
+
+- Attended club meetings in September and October 2026.
+- Attended the Student Enterprise Network Project event on September 3, 2026.
+- Attended the Learn IP Subnetting workshop on September 10, 2026.
 
 ## Coursework and Training
 
