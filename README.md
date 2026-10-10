@@ -1,25 +1,88 @@
-<div align="center">
-
 # Hi, I'm Chassidy Barker 👋
 
-### Cloud Engineer | AWS | AI | DevOps | Software Development
+### Cloud Computing | AWS | AI Applications | DevOps | Software Development
 
-🎓 **Bachelor of Applied Technology in Cloud Computing** *(Expected December 2026)*  
-🎓 **Associate of Applied Science in Digital Media**
+I'm a self-directed Cloud Computing student in San Antonio, graduating in December 2026 with a 3.7 GPA. I love technology and get a little obsessed with solving problems! Outside of class, I've built three independent applications using Python, AWS, automated testing, and GitHub Actions.
 
-I build cloud applications, AI-powered solutions, serverless systems, and modern web applications while continuously expanding my skills through hands-on projects.
+I also bring an 11-month web development internship and over four years of remote work experience. I'm looking for early-career cloud, DevOps, AI, or software development opportunities in San Antonio or remotely.
 
-<p>
-<a href="https://chassidybarker.com">🌐 Portfolio</a> •
-<a href="https://www.linkedin.com/in/chassidybarker">LinkedIn</a> •
-<a href="https://www.credly.com/users/chassidy-barker">Credly</a>
-</p>
+[Portfolio](https://www.chassidybarker.com/) | [LinkedIn](https://www.linkedin.com/in/chassidybarker) | [Credly](https://www.credly.com/users/chassidy-barker) | [Email](mailto:chassidybarker@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=chassbarker&style=for-the-badge"/>
+## Featured Projects
 
-</div>
+### 🔎 AI Log Anomaly Detector
 
----
+Python ML pipeline that flags unusual system logs with Isolation Forest and assigns separate rule-based severity levels to help prioritize review.
+
+**Stack:** Python, scikit-learn, NumPy, Streamlit, Docker, pytest, GitHub Actions.
+
+- Built an interactive dashboard with sample, paste, and upload inputs, adjustable detection settings, and CSV/JSON exports.
+- Added automated tests, CodeQL scanning, and dependency monitoring.
+- Containerized the dashboard with a non-root runtime and health check; CI builds the image and tests CLI analysis and dashboard readiness.
+- Verified the Docker dashboard locally with sample log analysis and a CSV download.
+
+**Troubleshooting example:** When localhost refused to connect, I checked `docker ps -a` and found that no container existed. I started the image with port 8501 mapped to localhost, then verified the container was healthy and the dashboard worked.
+
+[Live Demo](https://chass-ai-log-anomaly-detector.streamlit.app/) | [GitHub](https://github.com/chassbarker/ai-log-anomaly-detector)
+
+### 🤖 AI Appointment Scheduler V2.0
+
+Full-stack appointment application with Supabase authentication and PostgreSQL, an AWS serverless scheduling layer, and a conversational booking interface.
+
+**Stack:** JavaScript, HTML/CSS, Supabase, PostgreSQL, AWS Lambda, API Gateway, Terraform, IAM, CloudWatch, GitHub Actions.
+
+- Built appointment CRUD, search/filtering, date validation, and user-specific access through Row Level Security.
+- Added conversational booking, rescheduling, and cancellation with explicit confirmation.
+- Defined the AWS API and Lambda infrastructure with Terraform and added CloudWatch logging.
+- Added automated application and scheduling tests with GitHub Actions CI.
+
+The conversational interface uses a deterministic flow; connecting an AI language model is a future improvement.
+
+[Live Demo](https://chassbarker.github.io/ai-appointment-scheduler/) | [GitHub](https://github.com/chassbarker/ai-appointment-scheduler)
+
+### ☁️ Serverless Intelligent Contact System
+
+AWS serverless contact application that validates submissions, classifies inquiries with rules, and stores them in DynamoDB.
+
+**Stack:** Node.js, AWS Lambda, API Gateway, DynamoDB, AWS SAM, IAM, CloudWatch, GitHub Actions.
+
+- Built client-side and server-side validation with rule-based inquiry classification.
+- Defined infrastructure with AWS SAM, least-privilege permissions, restricted CORS, and API throttling.
+- Added privacy-conscious logging and CloudWatch error monitoring.
+- Automated Node.js tests, SAM validation, and application builds in CI.
+
+[Live Demo](https://chassbarker.github.io/serverless-intelligent-contact-system/frontend/) | [GitHub](https://github.com/chassbarker/serverless-intelligent-contact-system)
+
+## Technical Skills
+
+| Area | Tools and experience |
+| --- | --- |
+| Languages | Python, JavaScript, SQL, PHP, HTML, CSS |
+| Cloud and data | AWS Lambda, API Gateway, DynamoDB, IAM, CloudWatch, S3, Supabase, PostgreSQL |
+| Development and DevOps | Docker, Terraform, AWS SAM, Git, GitHub Actions, Linux, automated testing |
+| AI and applications | scikit-learn, Isolation Forest, Streamlit, Amazon Lex |
+| Web development | WordPress, Elementor, responsive interfaces |
+| AI developer tools | ChatGPT, GitHub Copilot, OpenAI Codex |
+
+**Continuing to learn:** Docker, Kubernetes, cloud automation, and DevOps workflows.
+
+## Experience and Education
+
+**Web Development Intern | Public Alliance**  
+Completed an 11-month internship using WordPress, Elementor, PHP, HTML, CSS, and JavaScript. Developed TRC4 features approved for production and supported website maintenance and content updates.
+
+**Remote work:** Over four years as a Customer Order Specialist with QVC.
+
+**Northwest Vista College**
+- Bachelor of Applied Technology, Cloud Computing | Expected December 2026 | GPA: 3.7
+- Associate of Applied Science, Digital Media | August 2025
+- Web Designer and Digital Media certificates; occupational skills awards in publishing, social media, and web/digital design.
+
+## Coursework and Training
+
+Hands-on coursework includes cloud architecture and operations, SageMaker machine learning, and analytics with Athena, Glue, Redshift, EMR, and Hive.
+
+[Amazon Lex Appointment Chatbot video demo](https://www.youtube.com/watch?v=0P_Qbqcrrw4)
 
 <div align="center">
 
@@ -89,376 +152,7 @@ I build cloud applications, AI-powered solutions, serverless systems, and modern
 
 </div>
 
----
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chassbarker&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chassbarker&layout=compact&theme=transparent"/>
-
-</div>
 
 ---
 
-# 👩‍💻 About Me
-
-I have a background in web development and digital media, with professional internship experience building and maintaining WordPress websites using PHP, HTML, CSS, and JavaScript.
-
-As I complete my Bachelor's in Cloud Computing, I've expanded into AWS, serverless architecture, machine learning, cloud data analytics, Infrastructure as Code, and DevOps through hands-on projects and AWS Academy coursework.
-
-I enjoy solving technical problems, learning new technologies, and building practical solutions that connect cloud computing, automation, software development, and artificial intelligence.
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 AI Appointment Scheduler V2.0
-
-Cloud-based appointment scheduling application with a serverless AWS backend, secure authentication, Infrastructure as Code, automated testing, and CI workflows.
-
-**Technologies**
-
-- AWS Lambda
-- Amazon API Gateway
-- Terraform
-- IAM
-- Amazon CloudWatch
-- Supabase
-- PostgreSQL
-- HTML
-- CSS
-- JavaScript
-- GitHub Actions
-
-**Highlights**
-
-- Secure user authentication
-- Responsive user interface
-- CRUD appointment management
-- Search and appointment filtering
-- Appointment date and time validation
-- AWS serverless backend
-- Infrastructure as Code with Terraform
-- PostgreSQL Row Level Security
-- Automated testing and GitHub Actions CI
-- Published `v2.0.0` release
-
-🔗 [View Repository](https://github.com/chassbarker/ai-appointment-scheduler)
-
----
-
-### ☁️ Serverless Intelligent Contact System
-
-AWS serverless application that validates, classifies, stores, and monitors incoming contact inquiries.
-
-**Technologies**
-
-- AWS Lambda
-- Amazon DynamoDB
-- AWS SAM
-- IAM
-- Amazon CloudWatch
-- Node.js
-- GitHub Actions
-
-**Highlights**
-
-- Serverless inquiry processing
-- Input validation and classification
-- DynamoDB data storage
-- CloudWatch monitoring
-- Automated testing
-- 14 passing tests
-- CI workflow with GitHub Actions
-- Infrastructure defined with AWS SAM
-
-🔗 [View Repository](https://github.com/chassbarker/serverless-intelligent-contact-system)
-
----
-
-### 🔎 AI Log Anomaly Detector
-
-Python machine learning pipeline that detects unusual system logs using Isolation Forest, assigns rule-based severity levels for prioritized review, and provides an interactive Streamlit dashboard with CSV and JSON exports.
-
-**Technologies**
-
-- Python
-- scikit-learn
-- NumPy
-- Isolation Forest
-- Streamlit
-- Docker
-- pytest
-- Git
-- GitHub Actions
-
-**Highlights**
-
-- Converts raw log entries into numeric features for anomaly detection
-- Separates ML-based detection from HIGH, MEDIUM, and LOW severity rules
-- Interactive dashboard with sample logs, pasted text, and file uploads
-- Adjustable detection settings and CSV/JSON exports
-- Automated tests and GitHub Actions CI
-- Docker containerization with a non-root runtime and health check
-- Container smoke testing in CI for image builds, CLI analysis, and dashboard readiness
-- Verified locally with a healthy container, sample log analysis, and CSV download
-
-🔗 [Live Demo](https://chass-ai-log-anomaly-detector.streamlit.app/) | [GitHub](https://github.com/chassbarker/ai-log-anomaly-detector)
-
----
-
-### ☁️ AWS Machine Learning Projects
-
-Hands-on Amazon SageMaker projects including:
-
-- Natural Language Processing
-- Sentiment Analysis
-- Word Embeddings
-- BlazingText
-- Model Deployment
-- t-SNE Visualization
-- Machine Learning Foundations
-
----
-
-### 📊 AWS Data Analytics & Big Data Projects
-
-Hands-on coursework and labs using AWS analytics services including:
-
-- Amazon Athena
-- AWS Glue
-- Amazon Redshift
-- Amazon S3
-- Amazon EMR
-- Apache Hive
-- ETL / ELT workflows
-- Data querying and transformation
-- Cloud-based big data processing
-
----
-
-### ☁️ AWS Cloud Projects
-
-Hands-on cloud architecture and operations projects covering:
-
-- IAM
-- Amazon S3
-- Amazon EC2
-- Amazon VPC
-- AWS Lambda
-- Amazon CloudWatch
-- AWS CLI
-- Linux
-- Cloud Security
-- High Availability
-- AWS Well-Architected Framework
-- Monitoring and Troubleshooting
-
----
-
-### 💬 Amazon Lex Appointment Chatbot
-
-Conversational AI chatbot built with Amazon Lex to demonstrate appointment scheduling through a conversational interface.
-
-🎥 **Demo:** [Amazon Lex Appointment Chatbot | Live Demonstration](https://www.youtube.com/watch?v=0P_Qbqcrrw4&list=PLRhLbZ2vyDCI)
-
----
-
-### 🌐 Portfolio Website
-
-Professional portfolio showcasing cloud engineering, AI, DevOps, software development, and web development projects.
-
-🔗 [View Portfolio](https://chassidybarker.com)
-
----
-
-# 💻 Technical Skills
-
-### ☁️ Cloud & AWS
-
-- AWS
-- AWS Lambda
-- Amazon API Gateway
-- Amazon CloudWatch
-- Amazon SageMaker
-- Amazon Lex
-- Amazon S3
-- Amazon EC2
-- Amazon VPC
-- IAM
-- AWS SAM
-- AWS CLI
-- Cloud Architecture
-- Cloud Operations
-- Cloud Security
-- AWS Well-Architected Framework
-
-### 📊 Data Analytics & Big Data
-
-- Amazon Athena
-- AWS Glue
-- Amazon Redshift
-- Amazon EMR
-- Apache Hive
-- Amazon S3
-- ETL / ELT
-- Cloud Data Architecture
-- Data Analytics on AWS
-- Data Security for Analytics
-
-### 🤖 Machine Learning & AI
-
-- Python
-- scikit-learn
-- NumPy
-- IsolationForest
-- Amazon SageMaker
-- Amazon Lex
-- Natural Language Processing
-- Sentiment Analysis
-- Anomaly Detection
-
-### 💻 Programming Languages
-
-- Python
-- JavaScript
-- SQL
-- PHP
-- HTML5
-- CSS3
-
-### 🗄️ Databases
-
-- PostgreSQL
-- Supabase
-- Amazon DynamoDB
-
-### 🌐 Web Technologies
-
-- WordPress Development
-- Elementor
-- Responsive Web Design
-- Authentication & Authorization
-- Row Level Security
-- GitHub Pages
-- Domain Management
-- DNS Configuration
-- Web Hosting
-
-### 🛠️ Development & DevOps
-
-- Docker
-- Git
-- GitHub
-- GitHub Actions
-- Terraform
-- Infrastructure as Code
-- CI/CD
-- AWS SAM
-- Visual Studio Code
-- Linux
-- Automated Testing
-
-### 🤖 AI Developer Tools
-
-- ChatGPT
-- GitHub Copilot
-- OpenAI Codex
-
-### 📚 Currently Learning
-
-- Docker
-- Kubernetes
-- Advanced DevOps workflows
-- Cloud automation
-
----
-
-# 💼 Professional Experience
-
-### Web Development Intern
-
-Worked on real-world websites using WordPress while gaining experience with:
-
-- PHP
-- HTML
-- CSS
-- JavaScript
-- WordPress
-- Elementor
-- Website maintenance
-- Content updates
-- Troubleshooting
-- Responsive layouts
-- Production website updates
-
----
-
-# 🎓 Education
-
-## Bachelor of Applied Technology in Cloud Computing
-
-**Northwest Vista College**
-
-*Expected December 2026*
-
----
-
-## Associate of Applied Science in Digital Media
-
-**Northwest Vista College**
-
-Awarded August 2025
-
-### Certificates
-
-- Web Designer Certificate
-- Digital Media Certificate
-
-### Occupational Skills Awards
-
-- Publishing for Digital Media
-- Social Media Content Creation
-- Web, Digital Design & Development
-- Web, Digital Design & Development II
-
----
-
-# 🎯 Career Interests
-
-- Cloud Engineering
-- DevOps
-- Cloud Architecture
-- Artificial Intelligence
-- Machine Learning
-- AI Cloud Engineering
-- Software Development
-- Automation
-
----
-
-# 📫 Connect
-
-🌐 **Portfolio**  
-https://chassidybarker.com
-
-💼 **LinkedIn**  
-https://www.linkedin.com/in/chassidybarker
-
-🏅 **Credly**  
-https://www.credly.com/users/chassidy-barker
-
-💻 **GitHub**  
-https://github.com/chassbarker
-
-📧 **Email**  
-chassidybarker@gmail.com
-
----
-
-<div align="center">
-
-### ⭐ Always Learning • Always Building • Always Improving ⭐
-
-</div>
+**Always learning. Always building. Always improving.**
