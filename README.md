@@ -179,28 +179,32 @@ AWS serverless application that validates, classifies, stores, and monitors inco
 
 ### 🔎 AI Log Anomaly Detector
 
-Lightweight Python machine learning tool that analyzes system logs, detects unusual activity using IsolationForest, and assigns severity levels for prioritized review.
+Python machine learning pipeline that detects unusual system logs using Isolation Forest, assigns rule-based severity levels for prioritized review, and provides an interactive Streamlit dashboard with CSV and JSON exports.
 
 **Technologies**
 
 - Python
 - scikit-learn
 - NumPy
-- IsolationForest
+- Isolation Forest
+- Streamlit
+- Docker
+- pytest
 - Git
-- GitHub
+- GitHub Actions
 
 **Highlights**
 
-- Detects anomalous system log activity
-- Converts raw log entries into numeric features
-- Uses IsolationForest for anomaly detection
-- Assigns HIGH, MEDIUM, or LOW severity levels
-- Generates anomaly scores
-- Exports flagged events to CSV
-- Separates ML-based detection from rule-based severity scoring
+- Converts raw log entries into numeric features for anomaly detection
+- Separates ML-based detection from HIGH, MEDIUM, and LOW severity rules
+- Interactive dashboard with sample logs, pasted text, and file uploads
+- Adjustable detection settings and CSV/JSON exports
+- Automated tests and GitHub Actions CI
+- Docker containerization with a non-root runtime and health check
+- Container smoke testing in CI for image builds, CLI analysis, and dashboard readiness
+- Verified locally with a healthy container, sample log analysis, and CSV download
 
-🔗 [View Repository](https://github.com/chassbarker/ai-log-anomaly-detector)
+🔗 [Live Demo](https://chass-ai-log-anomaly-detector.streamlit.app/) | [GitHub](https://github.com/chassbarker/ai-log-anomaly-detector)
 
 ---
 
@@ -344,6 +348,7 @@ Professional portfolio showcasing cloud engineering, AI, DevOps, software develo
 
 ### 🛠️ Development & DevOps
 
+- Docker
 - Git
 - GitHub
 - GitHub Actions
