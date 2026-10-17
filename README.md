@@ -120,6 +120,13 @@ Hands-on coursework includes cloud architecture and operations, SageMaker machin
 <tr>
 
 <td align="center">
+<strong>Data Engineering</strong><br>
+<a href="https://www.credly.com/badges/f4e12459-755f-47db-9e74-30ce2c2e8059/public_url" title="AWS Academy Graduate - Data Engineering - Training Badge">
+<img src="https://images.credly.com/size/680x680/images/8a28a66c-151d-4f2d-b021-ca7d3e146437/blob" width="100"/>
+</a>
+</td>
+
+<td align="center">
 <strong>Machine Learning for NLP</strong><br>
 <a href="https://www.credly.com/badges/0f1e95a8-66cf-4341-9665-7b36867eaa3e" title="AWS Academy Graduate - Machine Learning for Natural Language Processing">
 <img src="https://images.credly.com/images/683b2e3c-0d28-42a2-ab84-7203a209f9d0/blob" width="100"/>
@@ -133,22 +140,22 @@ Hands-on coursework includes cloud architecture and operations, SageMaker machin
 </a>
 </td>
 
+</tr>
+
+<tr>
+<td><br></td>
+<td><br></td>
+<td><br></td>
+</tr>
+
+<tr>
+
 <td align="center">
 <strong>Cloud Operations</strong><br>
 <a href="https://www.credly.com/earner/earned/badge/930fcbb1-28c6-4319-929d-90fd0437c132" title="AWS Academy Cloud Operations">
 <img src="https://images.credly.com/size/128x128/images/07e7ba52-aea4-431f-ba2d-a4113efd1d5a/blob" width="100"/>
 </a>
 </td>
-
-</tr>
-
-<tr>
-<td><br></td>
-<td><br></td>
-<td><br></td>
-</tr>
-
-<tr>
 
 <td align="center">
 <strong>Cloud Security Foundations</strong><br>
@@ -164,6 +171,16 @@ Hands-on coursework includes cloud architecture and operations, SageMaker machin
 </a>
 </td>
 
+</tr>
+
+<tr>
+<td><br></td>
+<td><br></td>
+<td><br></td>
+</tr>
+
+<tr>
+
 <td align="center">
 <strong>Machine Learning Foundations</strong><br>
 <a href="https://www.credly.com/earner/earned/badge/638248ab-ae91-4845-b57e-43b7984cad61" title="AWS Academy Machine Learning Foundations">
@@ -171,12 +188,15 @@ Hands-on coursework includes cloud architecture and operations, SageMaker machin
 </a>
 </td>
 
+<td></td>
+<td></td>
+
 </tr>
 </table>
 
 <br>
 
-**Machine Learning for NLP • Cloud Architecting • Cloud Operations • Cloud Security Foundations • Engineering Operations Technicians • Machine Learning Foundations**
+**Data Engineering • Machine Learning for NLP • Cloud Architecting • Cloud Operations • Cloud Security Foundations • Engineering Operations Technicians • Machine Learning Foundations**
 
 </div>
 
