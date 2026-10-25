@@ -36,7 +36,7 @@ Full-stack appointment application with Supabase authentication and PostgreSQL, 
 - Defined the AWS API and Lambda infrastructure with Terraform and added CloudWatch logging.
 - Added automated application and scheduling tests with GitHub Actions CI.
 - Developed and ran five Python Selenium WebDriver checks in Microsoft Edge covering navigation, login-field visibility, and required-field form validation; documented and troubleshot browser automation failures. [View Selenium tests](https://github.com/chassbarker/ai-appointment-scheduler/blob/main/test_selenium.py).
-- Expanded browser automation with an authenticated Selenium end-to-end test that logs in, creates, edits, and cancels a test appointment, then verifies the resulting history. Added demo-friendly pauses and best-effort credential masking; the local recording-mode test passed in about 26 seconds. [View E2E test branch](https://github.com/chassbarker/ai-appointment-scheduler/blob/main/tests/test_selenium_e2e.py). [Watch the Selenium E2E video demo](https://youtu.be/46lEfgx2a-s).
+- Expanded browser automation with an authenticated Selenium end-to-end test that logs in, creates, edits, and cancels a test appointment, then verifies the resulting history. Added demo-friendly pauses and best-effort credential masking; the local recording-mode test passed in about 26 seconds. [View Selenium E2E Test Code](https://github.com/chassbarker/ai-appointment-scheduler/blob/main/tests/test_selenium_e2e.py). [Watch the Selenium E2E video demo](https://youtu.be/46lEfgx2a-s).
 
 The conversational interface uses a deterministic flow; connecting an AI language model is a future improvement.
 
