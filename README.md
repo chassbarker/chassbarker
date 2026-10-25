@@ -97,7 +97,6 @@ Completed an 11-month internship, including the summer cooperative education exp
 ## Honors and Recognition
 
 - **Cum Laude** | AAS in Digital Media, Northwest Vista College | 2025
-- **Phi Theta Kappa Honor Society** | Beta Lambda Upsilon Chapter | Inducted August 2026
 - **Creative Problem-Solving Skills Badge** | Northwest Vista College | August 8, 2025 | 10 participation hours recorded
 
 ## College Involvement
