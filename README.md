@@ -29,12 +29,13 @@ Python ML pipeline that flags unusual system logs with Isolation Forest and assi
 
 Full-stack appointment application with Supabase authentication and PostgreSQL, an AWS serverless scheduling layer, and a conversational booking interface.
 
-**Stack:** JavaScript, HTML/CSS, Supabase, PostgreSQL, AWS Lambda, API Gateway, Terraform, IAM, CloudWatch, GitHub Actions.
+**Stack:** JavaScript, HTML/CSS, Supabase, PostgreSQL, AWS Lambda, API Gateway, Terraform, IAM, CloudWatch, GitHub Actions, Python, Selenium WebDriver.
 
 - Built appointment CRUD, search/filtering, date validation, and user-specific access through Row Level Security.
 - Added conversational booking, rescheduling, and cancellation with explicit confirmation.
 - Defined the AWS API and Lambda infrastructure with Terraform and added CloudWatch logging.
 - Added automated application and scheduling tests with GitHub Actions CI.
+- Developed and ran five Python Selenium WebDriver checks in Microsoft Edge covering navigation, login-field visibility, and required-field form validation; documented and troubleshot browser automation failures. [View Selenium tests](https://github.com/chassbarker/ai-appointment-scheduler/blob/main/test_selenium.py).
 
 The conversational interface uses a deterministic flow; connecting an AI language model is a future improvement.
 
@@ -59,7 +60,7 @@ AWS serverless contact application that validates submissions, classifies inquir
 | --- | --- |
 | Languages | Python, JavaScript, SQL, PHP, HTML, CSS |
 | Cloud and data | AWS Lambda, API Gateway, DynamoDB, IAM, CloudWatch, S3, Supabase, PostgreSQL |
-| Development and DevOps | Docker, Terraform, AWS SAM, Git, GitHub Actions, Linux, automated testing |
+| Development and DevOps | Docker, Terraform, AWS SAM, Git, GitHub Actions, Linux, Selenium WebDriver (Python), automated testing |
 | AI and applications | scikit-learn, Isolation Forest, Streamlit, Amazon Lex |
 | Web development | WordPress, Elementor, responsive interfaces |
 | AI developer tools | ChatGPT, GitHub Copilot, OpenAI Codex |
